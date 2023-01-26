@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning BSC in Information Technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Shubhangi-Date/Shubhangi-Date is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
