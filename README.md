@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubhangi-Date
+- 👋 Hi, I’m @Shubhangi-bhosale
 - 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning BSC in Information Technology
 - 💞️ I’m looking to collaborate on ...
