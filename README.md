@@ -5,6 +5,6 @@
 
 
 <!---
-Shubhangi-Date/Shubhangi-Date is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shubhangi-bhosale/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
